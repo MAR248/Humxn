@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+body{
+    background-color:slategrey;
+}
+h1{
+    color:black;
+    margin:20px, 0, 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: 700 ;
+    font-size: 40px;
+}   
+p{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+img{
+    max-width: 800px;
+    width: auto;
+    max-height: 250px;
+    height: auto;
+}
